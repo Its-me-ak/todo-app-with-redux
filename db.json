@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "0390",
+      "value": "Redux Toolkit Query",
+      "completed": true
+    },
+    {
+      "id": "1211",
+      "value": "Next Js Routing",
+      "completed": false
+    },
+    {
+      "id": "aebd",
+      "value": "JavaScript Promise",
+      "completed": false
+    }
+  ]
+}
